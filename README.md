@@ -10,15 +10,18 @@ npm install react-native-math-lib
 
 ## Usage
 
-
 ```js
-import { multiply } from 'react-native-math-lib';
+import {
+  addition,
+  division,
+  multiply,
+  subtraction,
+} from 'react-native-math-lib';
 
 // ...
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
